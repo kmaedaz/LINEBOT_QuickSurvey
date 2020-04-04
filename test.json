@@ -1,0 +1,178 @@
+{
+    "to": "U12402698912a91d521a89134aecc9659",
+    "messages": [
+        {
+            "type": "flex",
+            "altText": "Flex Message",
+            "contents": {
+                "type": "bubble",
+                "hero": {
+                    "type": "image",
+                    "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/01_3_movie.png",
+                    "size": "full",
+                    "aspectRatio": "20:13",
+                    "aspectMode": "cover",
+                    "action": {
+                        "type": "uri",
+                        "label": "Action",
+                        "uri": "https://linecorp.com/"
+                    }
+                },
+                "body": {
+                    "type": "box",
+                    "layout": "vertical",
+                    "spacing": "md",
+                    "contents": [
+                        {
+                            "type": "text",
+                            "text": "FX比較　はFLEX MESSAGE で作れています\n細かく体裁設定できる分デザインテンプレートをしっかり作る必要があります",
+                            "size": "xl",
+                            "gravity": "center",
+                            "weight": "bold",
+                            "wrap": true,
+                            "color": "#AA9999"
+                        },
+                        {
+                            "type": "box",
+                            "layout": "baseline",
+                            "margin": "md",
+                            "contents": [
+                                {
+                                    "type": "icon",
+                                    "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png",
+                                    "size": "sm"
+                                },
+                                {
+                                    "type": "icon",
+                                    "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png",
+                                    "size": "sm"
+                                },
+                                {
+                                    "type": "icon",
+                                    "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png",
+                                    "size": "sm"
+                                },
+                                {
+                                    "type": "icon",
+                                    "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png",
+                                    "size": "sm"
+                                },
+                                {
+                                    "type": "icon",
+                                    "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gray_star_28.png",
+                                    "size": "sm"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "4.0",
+                                    "flex": 0,
+                                    "margin": "md",
+                                    "size": "sm",
+                                    "color": "#999999"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "box",
+                            "layout": "vertical",
+                            "spacing": "sm",
+                            "margin": "lg",
+                            "contents": [
+                                {
+                                    "type": "box",
+                                    "layout": "baseline",
+                                    "spacing": "sm",
+                                    "contents": [
+                                        {
+                                            "type": "text",
+                                            "text": "Date",
+                                            "flex": 1,
+                                            "size": "sm",
+                                            "color": "#AAAAAA"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "Monday 25, 9:00PM",
+                                            "flex": 4,
+                                            "size": "sm",
+                                            "color": "#666666",
+                                            "wrap": true
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "box",
+                                    "layout": "baseline",
+                                    "spacing": "sm",
+                                    "contents": [
+                                        {
+                                            "type": "text",
+                                            "text": "Place",
+                                            "flex": 1,
+                                            "size": "sm",
+                                            "color": "#AAAAAA"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "7 Floor, No.3",
+                                            "flex": 4,
+                                            "size": "sm",
+                                            "color": "#666666",
+                                            "wrap": true
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "box",
+                                    "layout": "baseline",
+                                    "spacing": "sm",
+                                    "contents": [
+                                        {
+                                            "type": "text",
+                                            "text": "Seats",
+                                            "flex": 1,
+                                            "size": "sm",
+                                            "color": "#AAAAAA"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "C Row, 18 Seat",
+                                            "flex": 4,
+                                            "size": "sm",
+                                            "color": "#666666",
+                                            "wrap": true
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "box",
+                                    "layout": "vertical",
+                                    "margin": "xxl",
+                                    "contents": [
+                                        {
+                                            "type": "spacer"
+                                        },
+                                        {
+                                            "type": "image",
+                                            "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/linecorp_code_withborder.png",
+                                            "size": "xl",
+                                            "aspectMode": "cover"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "You can enter the theater by using this code instead of a ticket",
+                                            "margin": "xxl",
+                                            "size": "xs",
+                                            "color": "#AAAAAA",
+                                            "wrap": true
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            }
+        }
+    ]
+}

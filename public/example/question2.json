@@ -1,0 +1,101 @@
+{
+    "surveycode": "TEST-02-990-99",
+    "title": "設問2-設問画像なし",
+    "from_at": "2019-12-29 01:00:00",
+    "to_at": "2025-01-10 23:59:00",
+    "qlist": [
+        {
+            "qid": "es101",
+            "q": "転職は初めてですか？",
+            "imageurl": "https://yaku-ten.net/QuickSurvey/img/example/a2_1.png",
+            "type": "1",
+            "alist": [
+                {
+                    "imageurl": "https://yaku-ten.net/QuickSurvey/img/example/a2_1.png",
+                    "message": "初めて",
+                    "eval": "0"
+                },
+                {
+                    "imageurl": "https://yaku-ten.net/QuickSurvey/img/example/a2_2.png",
+                    "message": "転職したことがある",
+                   "eval": "1"
+                },
+                {
+                    "imageurl": "https://yaku-ten.net/QuickSurvey/img/example/a2_3.png",
+                    "message": "忘れました。",
+                   "eval": "0"
+                }
+            ]
+        },
+        {
+            "qid": "es102",
+            "q": "転職の理由はなんですか？",
+            "alist": [
+                {
+                    "imageurl": "https://yaku-ten.net/QuickSurvey/img/example/a2_1.png",
+                    "message": "給与の不満",
+                    "eval": "2"
+                },
+                {
+                    "imageurl": "https://yaku-ten.net/QuickSurvey/img/example/a2_1.png",
+                    "message": "休みの不満",
+                    "eval": "0"
+                },
+                {
+                    "imageurl": "https://yaku-ten.net/QuickSurvey/img/example/a2_1.png",
+                   "message": "上司が嫌い",
+                    "eval": "0"
+                },
+                {
+                    "imageurl": "https://yaku-ten.net/QuickSurvey/img/example/a2_1.png",
+                    "message": "言えない",
+                    "eval": "0"
+                }
+            ]
+        }
+    ],
+    "result": [
+        {
+            "eval": "3",
+            "result": [
+                {
+		            "title": "最高点！",
+                    "imageurl": "https://yaku-ten.net/QuickSurvey/img/example/r_1.png",
+		            "message": "%Nackname%さんに最高点の君はアマゾンでお買い物♪",
+		            "link_url": "https://www.amazon.co.jp"
+                },
+                {
+		            "title": "最高点！",
+                    "imageurl": "https://yaku-ten.net/QuickSurvey/img/example/r_1.png",
+		            "message": "%Nackname%さんに最高点の君はアマゾンでお買い物♪",
+		            "link_url": "https://www.amazon.co.jp"
+                }
+
+			]
+        },
+        {
+            "eval": "1",
+            "result": [
+                {
+		            "title": "平均点！",
+                    "imageurl": "https://yaku-ten.net/QuickSurvey/img/example/r_2.png",
+		            "message": "%Nackname%さんに平均点の君は楽天へGo！",
+		            "link_url": "https://www.rakuten.co.jp"
+                }
+			]
+
+        },
+        {
+            "eval": "0",
+            "result": [
+                {
+		            "title": "残念賞！",
+                    "imageurl": "https://yaku-ten.net/QuickSurvey/img/example/r_3.png",
+		            "message": " %Nackname%さんにもっと頑張ってほしい君はYahoo!にどうぞ",
+		            "link_url": "https://shopping.yahoo.co.jp/"
+                }
+			]
+
+        }
+    ]
+}

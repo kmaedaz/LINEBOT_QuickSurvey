@@ -1,0 +1,116 @@
+{
+    "surveycode": "drug-99-999-02",
+    "title": "くすりのあゆみ2[テスト]",
+    "send_confim": "false",
+    "qlist": [
+        {
+            "qid": "es101",
+            "q": "くすりが安心して使われるように、国が決めていることって何？",
+            "imageurl": "https://yaku-ten.net/QuickSurvey/img/example/q1_quiz.png",
+            "select": "1",
+            "alist": [
+                {
+                    "imageurl": "https://yaku-ten.net/QuickSurvey/img/example/a1_1.png?a-1",
+                    "message": "価格",
+                    "disnum": "1",
+                    "eval": "1"
+                },
+                {
+                    "imageurl": "https://yaku-ten.net/QuickSurvey/img/example/a1_2.png",
+                    "message": "場所",
+                    "disnum": "2",
+                    "eval": "0"
+                }
+            ]
+        },
+        {
+            "qid": "es102",
+            "q": "くすりの改良に欠かせないものって何？",
+            "imageurl": "https://yaku-ten.net/QuickSurvey/img/example/q2_quiz.png",
+            "select": "1",
+            "alist": [
+                {
+                    "imageurl": "https://yaku-ten.net/QuickSurvey/img/example/a2_2.png",
+                    "message": "病院から寄せれる情報",
+                    "disnum": "2",
+                    "eval": "1"
+                },
+                {
+                    "imageurl": "https://yaku-ten.net/QuickSurvey/img/example/a2_3.png",
+                    "message": "薬は改良してはならない",
+                    "disnum": "3",
+                    "eval": "0"
+                }
+            ]
+        },
+        {
+            "qid": "es103",
+            "q": "麻酔薬（ますいやく）って、どんなくすり？",
+            "imageurl": "https://yaku-ten.net/QuickSurvey/img/example/q2_quiz.png",
+            "select": "1",
+            "alist": [
+                {
+                    "imageurl": "https://yaku-ten.net/QuickSurvey/img/example/a3_1.png",
+                    "message": "痛(いた)みをとりのぞくくすり",
+                    "disnum": "1",
+                    "eval": "1"
+                },
+                {
+                    "imageurl": "https://yaku-ten.net/QuickSurvey/img/example/a3_2.png",
+                    "message": "けがをとりのぞくくすり",
+                    "disnum": "2",
+                    "eval": "0"
+                },
+                {
+                    "imageurl": "https://yaku-ten.net/QuickSurvey/img/example/a3_3.png",
+                    "message": "病気をとりのぞくくすり",
+                    "disnum": "3",
+                    "eval": "0"
+                }
+            ]
+        },
+        {
+            "qid": "es104",
+            "q": "くすりはたくさんのんだら効き目倍増？",
+            "imageurl": "https://yaku-ten.net/QuickSurvey/img/example/q3_quiz.png",
+            "select": "1",
+            "alist": [
+                {
+                    "imageurl": "https://yaku-ten.net/QuickSurvey/img/example/a4_1.png",
+                    "message": "早く治ると思う",
+                    "disnum": "1",
+                    "eval": "2"
+                },
+                {
+                    "imageurl": "https://yaku-ten.net/QuickSurvey/img/example/a4_2.png",
+                    "message": "早く治らないと思う",
+                    "disnum": "2",
+                    "eval": "0"
+                }
+            ]
+        }
+    ],
+    "result": [
+        {
+            "eval": "3",
+            "imageurl": "https://yaku-ten.net/QuickSurvey/img/example/download-new-year-gifs.gif",
+            "message": "よくできました",
+            "link_text": "よくできました",
+            "link_url": "https://www.amazon.co.jp"
+        },
+        {
+            "eval": "1",
+            "imageurl": "https://yaku-ten.net/QuickSurvey/img/example/r_2.png",
+            "message": "ちょとできました",
+            "link_text": "ちょとできました",
+            "link_url": "https://www.aliexpress.com"
+        },
+        {
+            "eval": "0",
+            "imageurl": "https://yaku-ten.net/QuickSurvey/img/example/r_2.png",
+            "message": "もっと頑張ろう！",
+            "link_text": "もっと頑張ろう！",
+            "link_url": "https://www.rakuten.co.jp"
+        }
+    ]
+}

@@ -1,0 +1,189 @@
+{
+    "surveycode": "drug-99-999-99",
+    "title": "くすりのあゆみ3{TEST}",
+    "from_at": "2019-12-29 01:00:00",
+    "to_at":   "2020-02-10 23:59:00",
+    "imageurl": "https://yaku-ten.net/QuickSurvey/img/noimage.png",
+    "qlist": [
+        {
+            "qid": "es1000",
+            "q": "例くすりの改良に欠かせないものって何？",
+            "imageurl": "https://yaku-ten.net/QuickSurvey/img/example/q2_quiz.png",
+			"type" : "1",
+            "alist": [
+                {
+                    "imageurl": "https://yaku-ten.net/QuickSurvey/img/example/a2_1.png",
+                    "title": "正解文",
+                    "message": "適当に説明文",
+                    "eval": "0"
+                },
+                {
+                    "imageurl": "https://yaku-ten.net/QuickSurvey/img/example/a2_2.png",
+                    "title": "正解文",
+                    "message": "病院から寄せれる情報",
+                    "eval": "1"
+                },
+                {
+                    "imageurl": "https://yaku-ten.net/QuickSurvey/img/example/a2_3.png",
+                    "title": "正解文",
+                    "message": "薬は改良してはならない",
+                    "eval": "0"
+                }
+            ]
+        },
+
+        {
+            "qid": "es101",
+            "q": "くすりの改良に欠かせないものって何？",
+            "imageurl": "https://yaku-ten.net/QuickSurvey/img/example/q2_quiz.png",
+            "alist": [
+                {
+                    "imageurl": "https://yaku-ten.net/QuickSurvey/img/example/a2_1.png",
+                    "message": "ネット情報",
+                    "eval": "0"
+                },
+                {
+                    "imageurl": "https://yaku-ten.net/QuickSurvey/img/example/a2_2.png",
+                    "message": "病院から寄せれる情報",
+                    "eval": "1"
+                },
+                {
+                    "imageurl": "https://yaku-ten.net/QuickSurvey/img/example/a2_3.png",
+                    "message": "薬は改良してはならない",
+                    "eval": "0"
+                }
+            ]
+        },
+
+        {
+            "qid": "es102",
+            "q": "くすりが安心して使われるように、国が決めていることって何？",
+            "imageurl": "https://yaku-ten.net/QuickSurvey/img/example/q1_quiz.png",
+            "alist": [
+                {
+                    "imageurl": "https://yaku-ten.net/QuickSurvey/img/example/a1_1.png",
+                    "message": "価格",
+                    "eval": "1"
+                },
+                {
+                    "imageurl": "https://yaku-ten.net/QuickSurvey/img/example/a1_2.png",
+                    "message": "場所",
+                    "eval": "0"
+                }
+            ]
+        },
+        {
+            "qid": "es103",
+            "q": "麻酔薬（ますいやく）って、どんなくすり？",
+            "imageurl": "https://yaku-ten.net/QuickSurvey/img/example/q2_quiz.png",
+            "select": "1",
+            "alist": [
+                {
+                    "imageurl": "https://yaku-ten.net/QuickSurvey/img/example/a3_1.png",
+                    "message": "痛(いた)みをとりのぞくくすり",
+                    "eval": "1"
+                },
+                {
+                    "imageurl": "https://yaku-ten.net/QuickSurvey/img/example/a3_2.png",
+                    "message": "けがをとりのぞくくすり",
+                    "eval": "0"
+                },
+                {
+                    "imageurl": "https://yaku-ten.net/QuickSurvey/img/example/a3_3.png",
+                    "message": "病気をとりのぞくくすり",
+                    "eval": "0"
+                }
+            ]
+        },
+        {
+            "qid": "es104",
+            "q": "くすりはたくさんのんだら効き目倍増？",
+            "imageurl": "https://yaku-ten.net/QuickSurvey/img/example/q3_quiz.png",
+            "select": "1",
+            "alist": [
+                {
+                    "imageurl": "https://yaku-ten.net/QuickSurvey/img/example/a4_1.png",
+                    "message": "早く治ると思う",
+                    "eval": "2"
+                },
+                {
+                    "imageurl": "https://yaku-ten.net/QuickSurvey/img/example/a4_2.png",
+                    "message": "早く治らないと思う",
+                    "eval": "0"
+                }
+            ]
+        }
+    ],
+    "result": [
+        {
+            "eval": "3",
+            "result": [
+                {
+                    "imageurl": "https://yaku-ten.net/QuickSurvey/img/example/r_1.png",
+                    "message": "%Nackname%さん大変よくできました1",
+                    "title": "よくできました1",
+                    "link_url": "https://www.amazon.co.jp"
+                },
+                {
+                    "imageurl": "https://yaku-ten.net/QuickSurvey/img/example/r_1.png",
+                    "message": "よくできました2",
+                    "title": "よくできました2",
+                    "link_url": "https://www.amazon.co.jp"
+                },
+                {
+                    "imageurl": "https://yaku-ten.net/QuickSurvey/img/example/r_1.png",
+                    "message": "よくできました3",
+                    "title": "よくできました3",
+                    "link_url": "https://www.amazon.co.jp"
+                }
+            ]
+        },
+        {
+            "eval": "1",
+            "result": [
+                {
+                    "imageurl": "https://yaku-ten.net/QuickSurvey/img/example/r_1.png",
+                    "message": "よくできました1",
+                    "title": "よくできました1",
+                    "link_url": "https://www.amazon.co.jp"
+                },
+                {
+                    "imageurl": "https://yaku-ten.net/QuickSurvey/img/example/r_1.png",
+                    "message": "よくできました2",
+                    "title": "よくできました2",
+                    "link_url": "https://www.amazon.co.jp"
+                },
+                {
+                    "imageurl": "https://yaku-ten.net/QuickSurvey/img/example/r_1.png",
+                    "message": "よくできました3",
+                    "title": "よくできました2",
+                    "link_text": "よくできました3",
+                    "link_url": "https://www.amazon.co.jp"
+                }
+            ]
+        },
+        {
+            "eval": "0",
+            "result": [
+                {
+                    "imageurl": "https://yaku-ten.net/QuickSurvey/img/example/r_1.png",
+                    "message": "よくできました1",
+                    "title": "よくできました1",
+                    "link_url": "https://www.amazon.co.jp"
+                },
+                {
+                    "imageurl": "https://yaku-ten.net/QuickSurvey/img/example/r_1.png",
+                    "message": "よくできました2",
+                    "title": "よくできました2",
+                    "link_url": "https://www.amazon.co.jp"
+                },
+                {
+                    "imageurl": "https://yaku-ten.net/QuickSurvey/img/example/r_1.png",
+                    "message": "よくできました3",
+                    "title": "よくできました3",
+                    "link_url": "https://www.amazon.co.jp"
+                }
+            ]
+        }
+    ]
+}

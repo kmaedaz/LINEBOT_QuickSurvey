@@ -1,0 +1,99 @@
+{
+    "surveycode": "TEST-03-990-99",
+    "title": "画像のみ-仕様によりが画像ボタンにはなりません",
+    "imageurl": "https://yaku-ten.net/QuickSurvey/img/noimage.png",
+    "from_at": "2019-12-29 01:00:00",
+    "to_at": "2025-01-10 23:59:00",
+    "qlist": [
+        {
+            "qid": "es101",
+            "imageurl": "https://yaku-ten.net/line-img/q1.gif",
+            "type": "1",
+            "alist": [
+                {
+
+                    "imageurl": "https://yaku-ten.net/line-img/q1.gif",
+                    "eval": "0"
+                },
+                {
+                    "imageurl": "https://yaku-ten.net/line-img/q2.gif",
+                   "eval": "1"
+                },
+                {
+                    "imageurl": "https://yaku-ten.net/line-img/q3.gif",
+                   "eval": "0"
+                }
+            ]
+        },
+        {
+            "qid": "es102",
+            "imageurl": "https://yaku-ten.net/line-img/q3.gif",
+            "alist": [
+                {
+                    "imageurl": "https://yaku-ten.net/line-img/q1.gif",
+                    "eval": "2"
+                },
+                {
+                    "imageurl": "https://yaku-ten.net/line-img/q1.gif",
+                    "eval": "0"
+                },
+                {
+                    "imageurl": "https://yaku-ten.net/line-img/q2.gif",
+                    "eval": "0"
+                },
+                {
+                    "imageurl": "https://yaku-ten.net/line-img/q1.gif",
+                    "eval": "0"
+                }
+            ]
+        }
+    ],
+    "result": [
+        {
+            "eval": "3",
+            "result": [
+                {
+                    "imageurl": "https://yaku-ten.net/QuickSurvey/img/example/r_1.png",
+		            "link_url": "https://www.amazon.co.jp"
+                },
+                {
+                    "imageurl": "https://yaku-ten.net/QuickSurvey/img/example/r_2.png",
+		            "link_url": "https://www.amazon.co.jp"
+                }
+
+			]
+        },
+        {
+            "eval": "1",
+            "result": [
+                {
+                    "imageurl": "https://yaku-ten.net/QuickSurvey/img/example/r_2.png",
+		            "link_url": "https://yaku-ten.net/?sfid=108&_sft_employment_status=%e3%83%91%e3%83%bc%e3%83%88&_sft_work_place=chozaiyakkyoku&_sft_time_to_change_jobs=imasugu&_sft_annual_income=700man"
+                },
+                {
+                    "imageurl": "https://yaku-ten.net/QuickSurvey/img/example/r_3.png",
+		            "link_url": "https://yaku-ten.net/?sfid=108&_sft_employment_status=%e3%83%91%e3%83%bc%e3%83%88&_sft_work_place=chozaiyakkyoku&_sft_time_to_change_jobs=imasugu&_sft_annual_income=700man"
+                }
+			]
+        },
+        {
+            "eval": "0",
+            "result": [
+                {
+                    "imageurl": "https://yaku-ten.net/QuickSurvey/img/example/r_1.png",
+		            "link_url": "https://yaku-ten.net/?sfid=108&_sft_employment_status=%e3%83%91%e3%83%bc%e3%83%88&_sft_work_place=chozaiyakkyoku&_sft_time_to_change_jobs=imasugu&_sft_annual_income=700man"
+                },
+                {
+                    "imageurl": "https://yaku-ten.net/QuickSurvey/img/example/r_2.png",
+		            "link_url": "https://yaku-ten.net/?sfid=108&_sft_employment_status=%e3%83%91%e3%83%bc%e3%83%88&_sft_work_place=chozaiyakkyoku&_sft_time_to_change_jobs=imasugu&_sft_annual_income=700man"
+                },
+                {
+                    "imageurl": "https://yaku-ten.net/QuickSurvey/img/example/r_3.png",
+		            "link_url": "https://yaku-ten.net/?sfid=108&_sft_employment_status=%e3%83%91%e3%83%bc%e3%83%88&_sft_work_place=chozaiyakkyoku&_sft_time_to_change_jobs=imasugu&_sft_annual_income=700man"
+                }
+
+			]
+
+        }
+    ]
+}
